@@ -6,6 +6,7 @@
   }
 
   window.moduleA = {
+    data:data,
     method: method
   }
 })()
